@@ -1,5 +1,7 @@
 # gRPC
-Implementing a Server
+1️⃣ The gRPC framework allows you to directly call methods of a remote application as if they were local methods.
+2️⃣ You can send requests directly from the client to the server
+3️⃣ You can create distributed applications more easily.
 
 ## Requirements
 ```
