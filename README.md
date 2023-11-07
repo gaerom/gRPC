@@ -10,7 +10,7 @@ python -m pip install grpcio-tools
 ```
 
 ## Compilation
-💡 When you write a .proto file and compile it, server skeleton and client stub are automatically generated. 
+💡 When you write a .proto file and compile it, server skeleton and client stub are automatically generated.  
 You can check a newly generated protocol buffer file.
 
 ```
