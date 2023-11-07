@@ -6,7 +6,8 @@
 <img width="1024" alt="architecture" src="https://github.com/gaerom/gRPC/assets/92725975/c74fe84f-1b44-4bd3-8fa2-f342b5d624db">
 
 
-## Usage
+## Usage  
+First, install prerequisites with
 ```
 $ python -m pip install grpcio
 $ python -m pip install grpcio-tools
